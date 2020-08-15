@@ -1,0 +1,49 @@
+/*--Color and font change*/
+p{
+  color: Purple;
+  font-size: 19px;
+}
+
+h1{
+  font-family: times;
+  font-size: 31px;
+  color: magenta;
+  text-align: center;
+}
+
+body{
+  background-color: lightblue;
+  font-family: helvetica;
+}
+
+h2{
+  font-family: arial;
+  color: red;
+  text-align: center;
+  font-size: 24px;
+}
+
+img{
+  width:51%;
+  height:21%
+}
+
+.myCenteredImage{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 0px solid blue;
+}
+
+.two{
+  text-align: left;
+  color: Purple
+}
+
+.one{
+  font-family: times;
+  font-size: 31px;
+  color: magenta;
+  text-align: center;
+  background-color: blue;
+}
